@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Levi</h1>
-<h3 align="center">An aspiring Machine Learning Engineer from California.</h3>
-
 - 📫 The best way to reach me is on discord: **Urenzu #3150**
 
 <h3 align="left">Connect with me:</h3>
