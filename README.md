@@ -1,4 +1,5 @@
-Hey, I'm Levi.\n
+Hey, I'm Levi.
+An aspiring Machine Learning Engineer
 The best way to reach me is on discord: *Urenzu #3150*
 
 Connect with me:
