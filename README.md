@@ -1,4 +1,4 @@
-Hey, I'm Levi.
+Hey, I'm Levi.\n
 The best way to reach me is on discord: *Urenzu #3150*
 
 Connect with me:
